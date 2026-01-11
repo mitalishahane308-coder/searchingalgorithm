@@ -1,0 +1,2 @@
+# searchingalgorithm
+linear and binary
