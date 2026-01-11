@@ -7,7 +7,7 @@ int main()
     int key;
     int low = 0, high = 3;
 
-    cout << "Enter elements in sorted order:\n";
+    cout << "Enter  array elements in sorted order:\n";
     for(int i = 0; i < 4; i++)
     {
         cin >> arr[i];
